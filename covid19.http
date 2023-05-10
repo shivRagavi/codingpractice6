@@ -37,3 +37,6 @@ Content-Type: application/json
 
 ###
 GET  http://localhost:3000/states/32/
+
+###
+GET  http://localhost:3000/states/32/
